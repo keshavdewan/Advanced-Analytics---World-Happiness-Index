@@ -19,3 +19,9 @@ I have conducted the following analyses in this Project:
 **Data** comprises of the data file used initially for the report
 
 **Script** comprises of all the scripts used during the analysis
+
+# Key Queries raised during the analysis
+- What parameters is the study based on?
+- What are the most happiest and least happiest regions & countries
+- What has been the average happiness score of the countries through out the years (2007-2021)?
+- On what parameters does the happiness score of a country is most dependent on? 
